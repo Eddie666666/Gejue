@@ -1,1 +1,2 @@
-# Gejue
+# Gejuee
+.eddie is abby
